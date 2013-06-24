@@ -1,0 +1,38 @@
+
+#edit-patterns-search .control-group {
+	float: left;
+	margin-right: 5px;
+}
+
+#edit-patterns-search #edit-actions {
+	display: inline;
+}
+
+table {
+	width: 100%;
+	text-align: center;
+}
+
+#edit-patterns-comment #edit-actions {
+	display: block;
+}
+
+#all_patterns_div {
+	margin-bottom: 30px;
+}
+
+.hero-unit {
+	padding: 20px;
+}
+
+.table th, .table td {
+	text-align: center;
+}
+
+.liked-link {
+	margin-left: 25%;
+}
+
+.liked-link-t {
+	margin-left: 25%;
+}
