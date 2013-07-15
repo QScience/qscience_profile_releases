@@ -1,0 +1,10 @@
+<?php
+
+// $Id: entity.module,v 1.1.2.1 2009/11/09 11:50:45 fago Exp $
+
+/**
+ * @file
+ * Module for the entity API.
+ *
+ * entity.inc is autoloaded by the code registry, so nothing else todo.
+ */
