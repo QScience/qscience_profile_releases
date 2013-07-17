@@ -1,0 +1,12 @@
+name = Pils
+description = "Parsing Utils"
+package = Utils
+core = 7.x
+php = 5.3
+
+
+; Information added by drush on 2013-07-17
+version = "unknown"
+project = "pils"
+datestamp = "1374066897"
+
