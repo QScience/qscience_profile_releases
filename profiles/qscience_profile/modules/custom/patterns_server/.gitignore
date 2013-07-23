@@ -1,9 +1,0 @@
-*.swp
-_*
-.project
-~*
-
-.directory
-test_*
-*/*.swp
-
