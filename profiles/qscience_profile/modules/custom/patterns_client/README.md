@@ -1,2 +1,0 @@
-# Patterns Client - beta
-

@@ -1,4 +1,0 @@
-name = Arxiv
-description =  Get paper from arxiv.org.
-core = 7.x
-dependencies[] = statistics
