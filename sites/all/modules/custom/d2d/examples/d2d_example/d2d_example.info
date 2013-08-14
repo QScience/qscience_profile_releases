@@ -1,6 +1,0 @@
-name = D2D Example
-description = "Example module for D2D"
-package = D2D
-core = 7.x
-
-dependencies[] = d2d
