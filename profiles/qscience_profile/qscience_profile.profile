@@ -254,7 +254,7 @@ function qscience_profile_qtr_settings_form($form, &$form_state, &$install_state
     $posttype[$type] = $type_obj->name;
   }
   //Set content types to be used by QTR by default
-  $posttype_default = array('paper');
+  $posttype_default = array('paper', 'paper_from_arxiv');
   
   $form['qtr_message'] = array(
       '#markup' => st('Actions performed on those nodes will be included in the calculations of the QTR index. 
